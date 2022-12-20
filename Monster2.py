@@ -1,2 +1,2 @@
 print ('Duke is a Monster')
-print ('Chuc Muon nam Moi')
+print ('Chuc Mung Nam Moi')
